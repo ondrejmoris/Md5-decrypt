@@ -6,7 +6,7 @@
 
  ## Usage
 
- * In terminal goes to directory wtih project:
+ * In terminal goes to directory with project:
 
  ```bash
    make
